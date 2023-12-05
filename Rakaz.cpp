@@ -1,0 +1,7 @@
+#include <iostream>
+
+int main()
+{
+    std::cout << "Nama Raka Zeniusa Barron dari Informatika dengan NIM 220102070" << std::endl;
+    return 0;
+}
